@@ -1,5 +1,7 @@
 # nimbus
 
+*Experimental app for my own personal learning about lambda functions*
+
 This is a sample template for nimbus - Below is a brief explanation of what we have generated for you:
 
 ```bash
